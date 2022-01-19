@@ -29,5 +29,5 @@ describe('Tests GifGridItem component', () => {
     const className = div.prop('className').split(' ');
 
     expect(className.includes('animate__fadeInDown')).toBe(true);
-  })
+  });
 });
