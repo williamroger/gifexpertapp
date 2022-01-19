@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests GifGridItem component should be GifGrid 1`] = `
+<div
+  className="card animate__animated animate__fadeInDown"
+>
+  <img
+    alt="Poster Star Wars"
+    src="http://starwars.com/poster.jpg"
+  />
+  <p>
+    Poster Star Wars
+  </p>
+</div>
+`;
+
+exports[`Tests GifGridItem component should be show GifGrid 1`] = `
+<div
+  className="card animate__animated animate__fadeInDown"
+>
+  <img
+    alt="Poster Star Wars"
+    src="http://starwars.com/poster.jpg"
+  />
+  <p>
+    Poster Star Wars
+  </p>
+</div>
+`;
